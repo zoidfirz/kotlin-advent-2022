@@ -28,6 +28,4 @@ fun main() {
     arrOfCalories.reverse()
     println(arrOfCalories[0]+arrOfCalories[1]+ arrOfCalories[2])
 
-//    println(part1(input))
-//    println(part2(input))
 }
